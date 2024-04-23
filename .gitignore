@@ -1,0 +1,9 @@
+/env
+**.pt
+/datasets
+**.mp4
+**.jpg
+**.png
+**.jpeg
+**.zip
+/runs
